@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3d0f66b4-daf5-497a-a11d-e8ba3ab164c1"
+      }
+    },
+    "owner": "umtkardas"
   }
 }
