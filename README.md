@@ -20,7 +20,7 @@
 
 | Home Screen |
 |-------------|
-| ![Home](https://github.com/user-attachments/assets/4a5f17c5-0fcb-407c-96dd-17f30ffd7e00) |
+| ![Home](https://github.com/user-attachments/assets/4a5f17c5-0fcb-407c-96dd-17f30ffd7e00 | width=300) |
 
 ## Installation
 
